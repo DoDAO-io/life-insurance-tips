@@ -1,0 +1,113 @@
+{
+  "uniqueId": "d2a72aae-8518-434d-a3c5-871e95f04cdc",
+  "id": "universal-life-insurance-life-insurance-tips",
+  "name": "Universal Life Insurance",
+  "content": "Understanding Universal Life Insurance",
+  "created": "2023-12-14T13:32:22.830Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "9acd37ca-3a8e-47d6-a286-02a546aa5022",
+      "content": "Universal life (UL) insurance provides lifelong coverage with a flexible premium structure and a cash value element, potentially offering cost advantages over whole life insurance.",
+      "stepItems": []
+    },
+    {
+      "name": "Risks",
+      "uuid": "4c902b9b-d0d7-4fff-b79a-36992b28ce61",
+      "content": "However, there are risks associated with UL insurance. If your investments underperform or you underpay for too long, it could affect your death benefit or cause your policy to lapse.",
+      "stepItems": []
+    },
+    {
+      "name": "Premium Components",
+      "uuid": "d5571234-e57c-4f17-ac01-460ea8ebfa83",
+      "content": "Universal life (UL) insurance premiums comprise two parts: the cost of insurance (COI) and the cash value. The COI is the essential payment to keep the policy active, covering mortality, policy administration, and associated expenses.",
+      "stepItems": []
+    },
+    {
+      "name": "COI Variations",
+      "uuid": "44f23509-d9b4-4979-b51d-a52b0aa6da35",
+      "content": "COI will vary by policy based on the policyholder’s age, insurability, and the insured risk amount. It's important to understand these factors when choosing a UL insurance policy.",
+      "stepItems": []
+    },
+    {
+      "name": "Cash Value",
+      "uuid": "45037432-4e04-42e6-b1f7-46b874c51417",
+      "content": "Premiums collected in excess of the cost of UL insurance accumulate within the cash value portion of the policy. If sufficient, the accumulated cash value can cover the increases in the COI, providing additional financial flexibility.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "ccea35cc-67cc-4a22-a195-5266dce5add1",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "c6b86b3a-fa7c-44d0-ba97-82fb49da9bbd",
+          "choices": [
+            {
+              "key": "A",
+              "content": "A type of term life insurance"
+            },
+            {
+              "key": "B",
+              "content": "A type of permanent life insurance"
+            },
+            {
+              "key": "C",
+              "content": "A type of health insurance"
+            },
+            {
+              "key": "D",
+              "content": "A type of car insurance"
+            }
+          ],
+          "content": "What is UL insurance?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "UL insurance is a type of permanent life insurance that offers lifetime coverage as long as premiums are paid and has a cash value element."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "907619c0-f6fb-406e-a1f7-0af8633c8562",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "2882721c-55b8-409e-9304-be1de25b401f",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Risks of losing the cash value"
+            },
+            {
+              "key": "B",
+              "content": "Risks of high premiums"
+            },
+            {
+              "key": "C",
+              "content": "Risks of underperformance of investments and underpayment for too long"
+            },
+            {
+              "key": "D",
+              "content": "Risks of policy administration charges"
+            }
+          ],
+          "content": "What are the risks associated with UL insurance?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "The risks associated with UL insurance include underperformance of investments and underpayment for too long, which could affect the death benefit or cause the policy to lapse."
+        }
+      ]
+    }
+  ],
+  "spaceId": "life-insurance-tips"
+}
