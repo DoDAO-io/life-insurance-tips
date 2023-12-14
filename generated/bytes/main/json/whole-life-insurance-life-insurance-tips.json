@@ -1,0 +1,107 @@
+{
+  "uniqueId": "c1213667-b889-48ce-baa9-b4f86dc9023a",
+  "id": "whole-life-insurance-life-insurance-tips",
+  "name": "Whole Life Insurance",
+  "content": "Understanding Whole Life Insurance",
+  "created": "2023-12-14T13:06:55.971Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "7fb03438-7c82-4419-b526-a87390962150",
+      "content": "Whole life insurance is a type of permanent life insurance that provides coverage throughout the insured person's life. It guarantees payment of a death benefit to beneficiaries in exchange for regular premium payments. ",
+      "stepItems": []
+    },
+    {
+      "name": "Cash Value",
+      "uuid": "0df96172-f284-47fd-aaaf-a87e57c1384f",
+      "content": "Whole life insurance includes a cash value, a savings component that accumulates tax-deferred interest. This provides a living benefit, allowing the policyholder to access it while the insured is alive, in addition to the death benefit.",
+      "stepItems": []
+    },
+    {
+      "name": "Building Cash Value",
+      "uuid": "9c48b43d-63ff-4397-aae5-e8adb4400585",
+      "content": "You can build cash value by paying extra for additional coverage (PUA) and reinvesting dividends. Over time, this can exceed the total premiums paid, providing a positive return.",
+      "stepItems": []
+    },
+    {
+      "name": "Accessing Cash Reserves",
+      "uuid": "7f70baa5-84d9-464c-a9dd-6011de067506",
+      "content": "Accessing cash reserves in a whole life insurance policy can be done through withdrawals or loans. Policy loans have lower interest rates than personal or home equity loans. However, both withdrawals and unpaid loans decrease the policy's cash value.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "0e6e8910-8cd8-4c34-824b-4b8bd0154c9f",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "a4c21adf-96ff-4fe9-9105-38ba528704b3",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To provide coverage for a specific period of time"
+            },
+            {
+              "key": "B",
+              "content": "To provide coverage throughout the insured person's life and guarantee payment of a death benefit to beneficiaries"
+            },
+            {
+              "key": "C",
+              "content": "To provide coverage only in case of accidental death"
+            },
+            {
+              "key": "D",
+              "content": "To provide coverage for medical expenses"
+            }
+          ],
+          "content": "What is the purpose of whole life insurance?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "Whole life insurance provides coverage throughout the insured person's life and guarantees payment of a death benefit to beneficiaries in exchange for regular premium payments."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "5839a550-40c1-4354-814e-ec3994f6f1b7",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "a1c55bde-3039-4d1b-b248-e9dc4a109435",
+          "choices": [
+            {
+              "key": "A",
+              "content": "The amount of money paid to beneficiaries upon the insured person's death"
+            },
+            {
+              "key": "B",
+              "content": "The amount of money paid by the policyholder as premiums"
+            },
+            {
+              "key": "C",
+              "content": "The savings component that accumulates interest on a tax-deferred basis"
+            },
+            {
+              "key": "D",
+              "content": "The amount of money paid to the policyholder while the insured is still alive"
+            }
+          ],
+          "content": "What is the cash value in whole life insurance?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "The cash value in whole life insurance is a savings component that accumulates interest on a tax-deferred basis, providing a living benefit to the policyholder."
+        }
+      ]
+    }
+  ],
+  "spaceId": "life-insurance-tips"
+}
