@@ -1,0 +1,85 @@
+uniqueId: 69e33d95-859d-483b-b8a3-ecc4b92950ee
+id: universal-life-benefits-life-insurance-tips
+name: Universal Life Benefits
+content: Understanding the advantages of Universal Policies
+created: '2023-12-14T13:44:43.002Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Payment Flexibility
+    uuid: c74ed363-eaeb-489d-9f38-bdfe2c017f3d
+    content: >-
+      Universal life policies allow flexible adjustments to payment size and
+      frequency, offering financial adaptability. 
+    stepItems: []
+  - name: Death Benefit
+    uuid: 395dcab5-c25c-44b0-9328-e18ace30aab5
+    content: >-
+      Universal policies may enable increasing the death benefit with a medical
+      exam, providing flexibility for changing coverage needs. Decreasing the
+      death benefit is typically an option after a few years, allowing
+      policyholders to adjust coverage over time.
+    stepItems: []
+  - name: Interest on Cash Value
+    uuid: a7ee6761-d6af-4157-9048-642f2c910f3b
+    content: >-
+      The cash value account associated with your policy earns interest at a
+      rate set by your insurer. This rate is subject to frequent changes, which
+      can impact the growth of your cash value over time.
+    stepItems: []
+  - name: Evaluation
+    uuid: c9660057-dd59-4e63-907f-c62881e6ca68
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 7aab97c2-dcb4-450d-9d80-9b048e3c5953
+        choices:
+          - key: A
+            content: A policy that offers fixed premium payments and death benefit.
+          - key: B
+            content: >-
+              A type of life insurance policy that offers flexibility in premium
+              payments, death benefit, and cash value.
+          - key: C
+            content: A policy that only provides cash value without any death benefit.
+          - key: D
+            content: >-
+              A policy that offers a fixed death benefit but flexible premium
+              payments.
+        content: What is a universal policy?
+        answerKeys:
+          - B
+        explanation: >-
+          A type of life insurance policy that offers flexibility in premium
+          payments, death benefit, and cash value.
+  - name: Evaluation
+    uuid: 49115911-5f5b-41cf-a0dc-a6bb1b279533
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 0cc517aa-dce3-4c5a-8cd9-55194c53d2db
+        choices:
+          - key: A
+            content: To determine the cash value of the policy.
+          - key: B
+            content: >-
+              To adjust the premium payments based on the policyholder's health
+              condition.
+          - key: C
+            content: >-
+              To determine the eligibility for additional coverage and to assess
+              the insurability of the policyholder.
+          - key: D
+            content: To calculate the interest rate on the cash value account.
+        content: >-
+          What is the purpose of a life insurance medical exam in universal
+          policies?
+        answerKeys:
+          - C
+        explanation: >-
+          To determine the eligibility for additional coverage and to assess the
+          insurability of the policyholder.
+spaceId: life-insurance-tips
