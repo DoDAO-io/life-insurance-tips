@@ -1,0 +1,96 @@
+uniqueId: 0f71e274-aeaa-4c9a-9d85-dacb34ce89be
+id: what-is-permanent-life-ins-life-insurance-tips
+name: What is Permanent Life Ins.?
+content: Overview of Permanent Life Insurance
+created: '2023-12-14T12:46:34.093Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Introduction
+    uuid: 049e17fc-4f8e-4017-afd9-8019ec0101a7
+    content: >-
+      Permanent life insurance covers a lifetime, unlike term insurance, which
+      has a specific period. It stays active with continuous premium payments
+      and is typically pricier due to lifelong coverage and a savings component.
+    stepItems: []
+  - name: Savings Component
+    uuid: e02ef1b0-6061-45c8-af0e-8f5bd324fa55
+    content: >-
+      Permanent life insurance merges a death benefit with a savings element
+      that earns tax-deferred interest, serving as a potential profitable
+      investment. Premiums cover the death benefit and contribute to the
+      policy's cash value accumulation.
+    stepItems: []
+  - name: Types of Permanent Life Insurance
+    uuid: 68f61be6-1da7-448c-9197-52d880cd518b
+    content: >-
+      Two main types of permanent life insurance: Whole life has fixed premiums
+      and guaranteed cash value growth, while universal life offers flexibility
+      in premiums and earnings tied to market interest rates.
+    stepItems: []
+  - name: Policy Loans
+    uuid: 4bfcd0fa-9192-4c2a-ac3a-bdb763f57a03
+    content: >-
+      Cash value in permanent life insurance can be borrowed or withdrawn for
+      needs like medical expenses or education. Exceeding the cash value with
+      unpaid interest and loans terminates the policy and coverage.
+    stepItems: []
+  - name: Evaluation
+    uuid: 4b699a88-be73-4913-81b6-866786830274
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: cfe9a150-0800-4b11-ad95-8e0228ca82ca
+        choices:
+          - key: A
+            content: Permanent life insurance is more expensive than term insurance
+          - key: B
+            content: >-
+              Permanent life insurance has a savings component, while term
+              insurance does not
+          - key: C
+            content: >-
+              Permanent life insurance provides coverage for the insured
+              person's entire lifetime, while term insurance only covers a
+              certain period
+          - key: D
+            content: >-
+              Permanent life insurance allows policyholders to invest in mutual
+              funds, while term insurance does not
+        content: >-
+          What is the main difference between permanent life insurance and term
+          insurance?
+        answerKeys:
+          - C
+        explanation: >-
+          Permanent life insurance provides coverage for the insured person's
+          entire lifetime, while term insurance only covers a certain period.
+  - name: Evaluation
+    uuid: e8d75040-1c73-41c2-8a1a-6c153168dbb8
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: b8a3c464-96d2-4781-9f65-53f6b398e9a2
+        choices:
+          - key: A
+            content: To provide coverage for the insured person's entire lifetime
+          - key: B
+            content: To earn interest on a tax-deferred basis and accumulate cash value
+          - key: C
+            content: >-
+              To offer more flexible premium options and tie earnings to market
+              interest rates
+          - key: D
+            content: To invest in mutual funds and other financial instruments
+        content: >-
+          What is the purpose of the savings component in permanent life
+          insurance?
+        answerKeys:
+          - B
+        explanation: >-
+          The savings component in permanent life insurance earns interest on a
+          tax-deferred basis and allows the policy to accumulate cash value.
+spaceId: life-insurance-tips
