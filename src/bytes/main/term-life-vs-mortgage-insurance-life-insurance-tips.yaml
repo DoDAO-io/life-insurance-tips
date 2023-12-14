@@ -1,0 +1,116 @@
+uniqueId: e1ed3a3e-b163-4b3f-b063-3476286d7be0
+id: term-life-vs-mortgage-insurance-life-insurance-tips
+name: Term Life vs. Mortgage Insurance
+content: Differences between Mortgage and Term Life Insurance
+created: '2023-12-14T12:27:29.265Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Beneficiary Differences
+    uuid: d3755c67-56ef-4399-934d-756c1d68f02b
+    content: >
+      In the case of term life insurance, the benefit goes directly to your
+      chosen beneficiaries, giving them flexibility in using the money whereas
+      mortgage insurance pays the bank or lender directly.
+    stepItems: []
+  - name: Coverage Differences
+    uuid: a173011e-27e4-450a-98f6-56a8bbd661d6
+    content: >-
+      Term life insurance provides financial protection for a set period,
+      usually 10, 20, or 30 years. This type of insurance is versatile and can
+      cater to different needs. On the other hand, mortgage insurance is
+      specifically designed for new homeowners, and it only covers the
+      outstanding mortgage balance.
+    stepItems: []
+  - name: Flexibility Differences
+    uuid: 81564af4-12fb-4948-b675-2b82b72cd327
+    content: >-
+      The flexibility of term life insurance allows beneficiaries to use the
+      funds for various needs. These can range from paying off debts to covering
+      childcare costs. This broad financial security is a significant advantage
+      of term life insurance over mortgage insurance, which provides a specific
+      coverage.
+    stepItems: []
+  - name: Decision Making
+    uuid: de25628f-902b-4bc1-8dae-37a9be01afc4
+    content: >-
+      Choosing between term life insurance and mortgage insurance depends on
+      your family's specific needs and goals. It's crucial to consider these
+      factors and understand the differences between the two types of insurance
+      to make an informed decision.
+    stepItems: []
+  - name: Evaluation
+    uuid: 30d220af-6e54-4c81-9dec-e8a64db55ebd
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 4688f404-647b-4680-a444-2828cf1a59d0
+        choices:
+          - key: A
+            content: >-
+              Term life insurance provides financial protection for a set
+              period, while mortgage insurance only covers the outstanding
+              mortgage balance
+          - key: B
+            content: >-
+              Term life insurance is specifically designed for new homeowners,
+              while mortgage insurance caters to different needs
+          - key: C
+            content: >-
+              Term life insurance allows beneficiaries to use the funds for
+              various needs, while mortgage insurance provides a specific
+              coverage
+          - key: D
+            content: >-
+              Term life insurance and mortgage insurance are the same types of
+              financial protection plans
+        content: >-
+          What is the key difference between term life insurance and mortgage
+          insurance?
+        answerKeys:
+          - A
+        explanation: >-
+          The key difference lies in where the benefit goes after the
+          policyholder's death. In term life insurance, the benefit is paid
+          directly to the chosen beneficiaries, providing them with flexibility
+          in how they use the funds.
+  - name: Evaluation
+    uuid: 86e0353f-b044-4731-8ca7-68deaaee4bfe
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 4ccb63a6-d908-47e1-94e1-2e384167d540
+        choices:
+          - key: A
+            content: >-
+              Term life insurance provides financial protection for a set
+              period, while mortgage insurance only covers the outstanding
+              mortgage balance
+          - key: B
+            content: >-
+              Term life insurance is specifically designed for new homeowners,
+              while mortgage insurance caters to different needs
+          - key: C
+            content: >-
+              Term life insurance allows beneficiaries to use the funds for
+              various needs, while mortgage insurance provides a specific
+              coverage
+          - key: D
+            content: >-
+              Term life insurance and mortgage insurance are the same types of
+              financial protection plans
+        content: >-
+          What does term life insurance provide that mortgage insurance does
+          not?
+        answerKeys:
+          - C
+        explanation: >-
+          The flexibility of term life insurance allows beneficiaries to use the
+          funds for various needs, ranging from paying off debts to covering
+          childcare costs. This broad financial security is a significant
+          advantage of term life insurance over mortgage insurance, which
+          provides a specific coverage.
+spaceId: life-insurance-tips
