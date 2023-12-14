@@ -1,0 +1,66 @@
+uniqueId: 8d3ba957-628f-4644-a8ca-33b99720eb3b
+id: term-life-benefits-life-insurance-tips
+name: Term Life Benefits
+content: Exploring the advantages of term life insurance
+created: '2023-12-14T11:06:18.516Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Cost Effectiveness
+    uuid: f66e5d14-306b-4ce6-9ff1-d367734243da
+    content: >-
+      Term life insurance is customizable, allowing individuals to choose
+      coverage and term length (10-40 years). It's more affordable than whole or
+      universal life insurance, making it accessible for budget-conscious
+      individuals.
+    stepItems: []
+  - name: Lower Premiums
+    uuid: 59051716-4ae6-4018-8790-780b96ef74c2
+    content: >-
+      Term life insurance is popular due to its lower premium payments as it
+      does not accumulate cash value like permanent life insurance. This means
+      no additional costs are added to the premium, making it an attractive
+      option for those seeking affordable life insurance coverage. 
+    stepItems: []
+  - name: Customization
+    uuid: 96aeeed8-1b78-4732-86e3-fcbf66c97321
+    content: >-
+      Term life insurance is customizable; you can pick a term for specific
+      needs like mortgage payoff. The lump sum benefit helps with income for
+      dependents or even educational expenses.
+    stepItems: []
+  - name: Conversion Feature
+    uuid: 0c8acafa-8c85-4a6a-a3a1-b2bacb0cf0f9
+    content: >-
+      Term life insurance policies include a conversion feature that allows
+      policyholders to convert their policy into a permanent form of life
+      insurance, such as whole life or universal life. This is beneficial for
+      those who may need longer-term coverage in the future.
+    stepItems: []
+  - name: Evaluation
+    uuid: 39b477e0-af7a-4cd6-bae1-55323c6e812f
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: b60b04dd-8d77-4e85-bac4-d6e1c565e9c7
+        choices:
+          - key: A
+            content: Premiums increase over time
+          - key: B
+            content: Premiums decrease over time
+          - key: C
+            content: Premiums are lower compared to permanent life insurance
+          - key: D
+            content: Premiums are higher compared to permanent life insurance
+        content: >-
+          What is the advantage of term life insurance in terms of premium
+          payments?
+        answerKeys:
+          - C
+        explanation: >-
+          Term life insurance has lower premium payments compared to permanent
+          life insurance as it does not accumulate cash value.
+spaceId: life-insurance-tips
