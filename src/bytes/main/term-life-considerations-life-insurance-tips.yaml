@@ -1,0 +1,64 @@
+uniqueId: e96f6b77-dfb3-4162-af86-efe5bb07847c
+id: term-life-considerations-life-insurance-tips
+name: Term Life Considerations
+content: Key considerations when purchasing term life insurance
+created: '2023-12-14T11:41:24.843Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Coverage Assessment
+    uuid: 158369ef-7380-4bfd-921c-2eacac725790
+    content: >-
+      When buying a term life insurance plan, it's crucial to accurately assess
+      how much coverage your family would need in the event of your untimely
+      death. 
+    stepItems: []
+  - name: Policy Tenure
+    uuid: 3ad58e56-06d2-456a-9cf7-66a814a87b91
+    content: >-
+      After determining the coverage amount, you need to decide the tenure of
+      the policy. It should not be too short, risking the policy to lapse before
+      your financial obligations are completed, or too long, leading to higher
+      premiums. 
+    stepItems: []
+  - name: Insurance Riders
+    uuid: 2de67b7a-9d30-492b-b06b-e95a5b139915
+    content: >-
+      Term life insurance plans offer affordable riders for added protection,
+      including accidental death payout, critical illness, and premium waiver
+      for disability. Consider these, even if not immediately needed, due to
+      their low cost.
+    stepItems: []
+  - name: Insurer Reputation
+    uuid: 7240499e-4627-4423-b129-0f7d5152c0bb
+    content: >-
+      Lastly, it's important to research the reputation and financial stability
+      of the insurance company. Look for reviews, ratings, and customer feedback
+      to ensure reliability. Also, read the fine print of all the add-ons as
+      they tend to be different for different insurance companies.
+    stepItems: []
+  - name: Evaluation
+    uuid: ae299080-6ad5-4836-8343-d1204b51b523
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 9f36f074-6b75-4c92-b0d8-0683488e4abd
+        choices:
+          - key: A
+            content: Coverage amount
+          - key: B
+            content: The brand of the insurance company
+          - key: C
+            content: The weather forecast for the next month
+          - key: D
+            content: The price of the insurance premium
+        content: What should you consider when purchasing term life insurance?
+        answerKeys:
+          - A
+        explanation: >-
+          When purchasing term life insurance, it is important to accurately
+          assess the coverage needed.
+spaceId: life-insurance-tips
