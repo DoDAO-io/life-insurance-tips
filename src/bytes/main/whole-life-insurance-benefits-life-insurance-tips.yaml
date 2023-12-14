@@ -1,0 +1,79 @@
+uniqueId: c1213667-b889-48ce-baa9-b4f86dc9023a
+id: whole-life-insurance-benefits-life-insurance-tips
+name: Whole Life Insurance Benefits
+content: Benefits of Whole Life Insurance
+created: '2023-12-14T13:18:52.445Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: No Expiry Date
+    uuid: 49e0dfa1-c33a-4623-9e80-65c56b0d52eb
+    content: >-
+      Whole life insurance covers you for your entire life without an expiration
+      date. It lasts until you pass away or terminate it. Premiums build cash
+      value that can be accessed under certain conditions.
+    stepItems: []
+  - name: Price Stability
+    uuid: b4cdd145-2a01-4f18-82bf-e2689ede7f3f
+    content: >-
+      Whole life insurance offers price stability with a guaranteed death
+      benefit and fixed premiums throughout the contract. As long as premiums
+      are paid on time, the cost remains constant, providing assurance against
+      increases due to later-life health conditions.
+    stepItems: []
+  - name: Tax Benefits
+    uuid: 08074139-f1d3-4db3-8c48-05792cfcc612
+    content: >-
+      Whole life insurance provides tax benefits as the cash value grows
+      tax-deferred, allowing income to accumulate without annual taxation.
+      Withdrawals in a lower tax bracket may be taxed at a reduced rate compared
+      to the initial contribution.
+    stepItems: []
+  - name: Premium Stability
+    uuid: a1a79ece-63c1-4fc3-8a32-236fb2f31ca8
+    content: >-
+      Whole life insurance ensures stability with fixed premiums and assured
+      cash value accumulation. Regardless of the insured’s age, the declared
+      premium as the policy is released remains the same. 
+    stepItems: []
+  - name: Fixed Benefits
+    uuid: f53255b3-1e5e-4720-81b9-58df5c91f694
+    content: >-
+      Upon retirement, whole life insurance provides a lump sum death benefit
+      payout to chosen beneficiaries, often family members or loved ones. You
+      have the flexibility to determine the benefit amount when purchasing the
+      policy.
+    stepItems: []
+  - name: Evaluation
+    uuid: 8cd7f7b8-5bea-4ed7-8879-97536278f632
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 860df72c-7f02-45b3-88bf-9636b24cf1e2
+        choices:
+          - key: A
+            content: The cash value is taxed as it grows
+          - key: B
+            content: >-
+              The cash value is not taxed as it grows and withdrawals are taxed
+              at a lower rate
+          - key: C
+            content: >-
+              The cash value is taxed as it grows and withdrawals are taxed at a
+              higher rate
+          - key: D
+            content: >-
+              The cash value is not taxed as it grows and withdrawals are not
+              taxed
+        content: What is the tax benefit of whole life insurance?
+        answerKeys:
+          - B
+        explanation: >-
+          Whole life insurance policies offer significant tax benefits. The cash
+          value of your policy is not taxed as it grows. Additionally, if you
+          withdraw money when you're in a lower tax bracket, it would be taxed
+          at a lower rate than when it was originally paid into your account.
+spaceId: life-insurance-tips
