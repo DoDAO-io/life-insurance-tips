@@ -1,0 +1,67 @@
+uniqueId: 001b89fb-51eb-4099-aacd-fb4cae4347bb
+id: term-life-insurance-pitfalls-life-insurance-tips
+name: Term Life Insurance Pitfalls
+content: Common Mistakes made before/after purchasing Term Life
+created: '2023-12-14T12:11:18.247Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Buying the Wrong Term
+    uuid: a6bd9225-e622-4dd6-9a71-e9994a5cffc2
+    content: >-
+      Choosing a term life insurance plan requires understanding that with
+      shorter terms, like 5 years, rates increase upon renewal which is a common
+      mistake many people make. Opting for longer terms, such as 10 or 20 years,
+      keeps rates constant, saving you money over the entire duration.
+    stepItems: []
+  - name: Not Reviewing Coverage
+    uuid: 4e4cb8c2-0773-47d2-a486-ffa3291bb8f0
+    content: >-
+      Another common mistake is not reviewing your policy annually. The
+      circumstances that were true when you first bought your life insurance
+      policy may change over time. Therefore, it's crucial to review your
+      coverage yearly to ensure it still meets your family's current needs.
+    stepItems: []
+  - name: Ignoring Pre-Existing Conditions
+    uuid: 704f2810-4d0d-4799-943f-866f8322ecb2
+    content: >-
+      Failing to disclose pre-existing conditions such as heart disease,
+      diabetes, or previous surgeries to your insurance company is a grave
+      mistake. This could lead to the non-payment of a benefit to your loved
+      ones when they need it the most.
+    stepItems: []
+  - name: Overlooking Riders
+    uuid: 869d1809-c66c-41ba-9761-370f917f0319
+    content: >-
+      Riders are extra features in life insurance for customization. Many
+      overlook them and choose basic policies. Assess your needs to see if
+      riders would be beneficial. Though they may raise premiums slightly, they
+      provide valuable protection and financial benefits when needed.
+    stepItems: []
+  - name: Evaluation
+    uuid: f86e0bc1-40b5-4d12-9c7c-8d10b0ee3184
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 8933d0af-58ba-4e9e-870a-d456f984ad6e
+        choices:
+          - key: A
+            content: Not understanding the term length
+          - key: B
+            content: Not reviewing the policy annually
+          - key: C
+            content: Not disclosing pre-existing conditions
+          - key: D
+            content: Not understanding the importance of riders
+        content: What is a common mistake made after purchasing Term Life?
+        answerKeys:
+          - B
+        explanation: >-
+          The circumstances that were true when you first bought your life
+          insurance policy may change over time. Therefore, it's crucial to
+          review your coverage yearly to ensure it still meets your family's
+          current needs.
+spaceId: life-insurance-tips
