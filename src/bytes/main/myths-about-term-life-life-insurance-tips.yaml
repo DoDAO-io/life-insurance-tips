@@ -1,0 +1,70 @@
+uniqueId: 9f2ddc20-8364-4c23-9314-ada7ddf9a57a
+id: myths-about-term-life-life-insurance-tips
+name: Myths About Term Life
+content: Debunking Common Myths about Term Life Insurance
+created: '2023-12-14T11:56:07.931Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: 'Myth 1: Term Life is Expensive'
+    uuid: e994a2f3-6739-4be1-aee3-cdc2114c1ed6
+    content: >-
+      Contrary to popular belief, term insurance is affordable and offers
+      flexibility. You can choose the policy term and coverage amount that best
+      suits your needs and budget. This ensures you only pay for the coverage
+      you need, making term insurance a more affordable option than other life
+      insurance plans.
+    stepItems: []
+  - name: 'Myth 2: It''s Only for the Young'
+    uuid: 22d841ca-ba24-4dbb-804e-c75c9cb45212
+    content: >-
+      As age increases, so do financial obligations and the need for protection
+      against unforeseen events like death or disability. Even if you're in your
+      50s or 60s and have done well financially, it is still advisable to buy a
+      term policy now rather than later when you may be more vulnerable to risk
+      factors such as illness or injury.
+    stepItems: []
+  - name: 'Myth 3: Single? No Need to Buy'
+    uuid: 09faec61-5f07-4eda-b844-b0d11e3361d6
+    content: >-
+      Many believe that single people without dependents don't need life
+      insurance. However, single individuals may need at least enough life
+      insurance to cover their outstanding personal debts and medical and
+      funeral bills. If you're single with plans to start a family, you can buy
+      coverage at cheaper rates.
+    stepItems: []
+  - name: Myth 4:Lacks Additional Benefits
+    uuid: b0b2f9b3-1cab-4498-8fc9-a022b6167f8e
+    content: >-
+      Contrary to common belief, Term Insurance offers more than just death
+      benefits. It includes riders like Accidental Death, Critical Illness, and
+      Disability covers for added protection and peace of mind.
+    stepItems: []
+  - name: Evaluation
+    uuid: f309e467-751b-4165-ad85-4d18f128bb43
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 4ccaa451-5cfa-4a61-b249-df2acd2d28a4
+        choices:
+          - key: A
+            content: Coverage can be bought at cheaper rates
+          - key: B
+            content: >-
+              Term insurance provides additional benefits other than death
+              benefits
+          - key: C
+            content: Term insurance is not affordable
+          - key: D
+            content: Buying term insurance at a younger age is not advisable
+        content: What is an advantage of buying term insurance at a younger age?
+        answerKeys:
+          - A
+        explanation: >-
+          If you're young and single with future plans to start a family, you
+          can buy coverage at cheaper rates now, versus waiting until later when
+          it's more expensive.
+spaceId: life-insurance-tips
