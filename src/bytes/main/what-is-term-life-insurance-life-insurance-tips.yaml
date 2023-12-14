@@ -1,0 +1,104 @@
+uniqueId: 2a2c01a7-51b1-47a4-a34b-874c17aa7eea
+id: what-is-term-life-insurance-life-insurance-tips
+name: What is Term Life Insurance?
+content: Understanding Term Life Insurance and its implications
+created: '2023-12-14T10:41:59.193Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Overview
+    uuid: 2cd68061-a566-4917-963a-f9049a39b8c4
+    content: >-
+      Term life insurance is a type of policy that provides a death benefit to
+      the policyholder's beneficiaries for a specified period. Once the term
+      ends, the policyholder can renew it, convert it into permanent coverage,
+      or let it lapse.
+    stepItems: []
+  - name: Premium Calculation
+    uuid: a0f6e642-6929-4672-9269-f5a2e40955cb
+    content: >-
+      When purchasing a term life insurance policy, the premium is determined by
+      factors such as the policy's value, your age, gender, and health. The
+      company's business costs, investment returns, and mortality rates also
+      influence the rates.
+    stepItems: []
+  - name: Additional Factors
+    uuid: 083efd95-3557-49a4-92bf-9fdd5c8b469d
+    content: >-
+      The insurance company may also consider your driving record, current
+      medications, smoking status, occupation, hobbies, family history, and
+      similar information when determining your premium.
+    stepItems: []
+  - name: Benefit Payout
+    uuid: 79fb3182-d179-4db3-bf0d-bbc4a695c16d
+    content: >-
+      If you pass away during the policy term, the insurer will pay the policy's
+      face value to your beneficiaries. This cash benefit is usually not taxable
+      and can be used to cover healthcare and funeral costs, consumer debt,
+      mortgage debt, and other expenses.
+    stepItems: []
+  - name: Beneficiary Rights
+    uuid: d7335337-4b1b-4c88-aa9d-a0bcea1072a4
+    content: >-
+      Beneficiaries are not obligated to use the insurance proceeds to settle
+      the deceased's debts. If the policy expires before your death or you live
+      beyond the policy term, there is no payout.
+    stepItems: []
+  - name: Policy Renewal
+    uuid: e2d8cc27-c04c-4129-b23b-c786ef4416c1
+    content: >-
+      You may have the option to renew a term policy at expiration, but the
+      premiums will be recalculated based on your age at the time of renewal.
+    stepItems: []
+  - name: Evaluation
+    uuid: 58d3fff0-6763-4fbb-8b94-bc2a9cac9eb0
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 6ccd86d2-65bf-470a-ad5b-79bd0f5e6481
+        choices:
+          - key: A
+            content: >-
+              A policy that provides a death benefit to the policyholder's
+              beneficiaries for a specified period
+          - key: B
+            content: A policy that provides coverage for the policyholder's entire life
+          - key: C
+            content: A policy that only covers funeral expenses
+          - key: D
+            content: A policy that provides coverage for healthcare costs
+        content: What is term life insurance?
+        answerKeys:
+          - A
+        explanation: >-
+          Term life insurance is a type of policy that provides a death benefit
+          to the policyholder's beneficiaries for a specified period.
+  - name: Evaluation
+    uuid: 649513b3-9fe6-4349-a3ea-c6a7819c1301
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: be2c4f90-6110-43cb-bec0-a8bbcf0fd321
+        choices:
+          - key: A
+            content: The policy's face value and your occupation
+          - key: B
+            content: The policy's value, your age, gender, and health
+          - key: C
+            content: The policy's term length and your driving record
+          - key: D
+            content: The policy's premium and your family history
+        content: >-
+          What primary factors influence the premium of a term life insurance
+          policy?
+        answerKeys:
+          - B
+        explanation: >-
+          The premium of a term life insurance policy is determined by factors
+          such as the policy's value, your age, gender, and health. The
+          company's business costs, investment returns, and mortality rates also
+          influence the rates.
+spaceId: life-insurance-tips
