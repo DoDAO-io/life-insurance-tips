@@ -1,4 +1,4 @@
-uniqueId: 3a9f0d71-c68e-4450-8dd2-8fcbac5e8615
+uniqueId: 97e38cb4-4499-4959-959e-f9393b3b9b8d
 id: benefits-of-insurance-riders-life-insurance-tips
 name: Benefits of Insurance Riders
 content: Benefits of incorporating riders into insurance policies
@@ -9,14 +9,6 @@ admins: []
 tags: []
 priority: 0
 steps:
-  - name: Customization
-    uuid: 2d532a91-14c8-4c5f-b1a0-9d5682866bdd
-    content: >-
-      Insurance riders offer policyholders the flexibility to customize their
-      coverage based on specific needs and circumstances. They allow
-      policyholders to tailor their insurance coverage to meet their unique
-      needs, adding specific protections without purchasing a separate policy.
-    stepItems: []
   - name: Additional Protection
     uuid: 7e9bd6c1-2e4b-4e96-b23b-ed653ae75dce
     content: >-
