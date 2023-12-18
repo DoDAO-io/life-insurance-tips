@@ -1,0 +1,92 @@
+uniqueId: 6283b56f-8451-4d07-b70d-4624118f3516
+id: insurance-riders-life-insurance-tips
+name: Insurance Riders
+content: Understanding the types of life insurance riders
+created: '2023-12-18T12:11:35.746Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Types of Riders
+    uuid: db6748bb-4721-458d-954d-f50c193eaef9
+    content: >-
+      The five types of life insurance riders you can choose from are:
+      Accelerated death benefit insurance riders, Critical illness insurance
+      riders, Family insurance riders, Accidental death and dismemberment
+      insurance riders, and Benefit structure insurance riders.
+    stepItems: []
+  - name: ADB and Critical Illness Riders
+    uuid: c7b83f34-bcaa-4208-890c-25a99f7c3dfc
+    content: >-
+      Accelerated death benefit insurance riders (ADB) take money from the death
+      benefit to pay your medical expenses if you have a terminal illness.
+      Critical illness insurance riders pay out accelerated benefits while
+      you’re alive to cover treatment for certain illnesses that are specified
+      in your policy.
+    stepItems: []
+  - name: Family and AD&D Riders
+    uuid: 44acd7cf-a1bc-49b2-be49-69ced686d19f
+    content: >-
+      Family insurance riders offer additional coverage for members of your
+      family, like your children or your spouse. Accidental death and
+      dismemberment insurance riders are for people who have riskier lifestyles,
+      such as a dangerous job or hobby that will increase your premium.
+    stepItems: []
+  - name: Benefit Structure Riders
+    uuid: dac0bdce-ae17-498c-8794-c98389777540
+    content: >-
+      Benefit structure insurance riders trigger adjustments to the policy
+      itself. They include: Return-of-premium insurance rider, Term conversion
+      insurance rider, Family income rider, and Guaranteed insurability rider.
+    stepItems: []
+  - name: Evaluation
+    uuid: 00761e04-72a8-40dc-8575-9f4a6acefb2a
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: ef9d9e8a-87b2-42b3-a8df-a37a5a8c9b95
+        choices:
+          - key: A
+            content: Additional coverage for members of your family
+          - key: B
+            content: >-
+              Add-ons to your life insurance policy designed to offer additional
+              financial support
+          - key: C
+            content: Insurance policies that cover treatment for certain illnesses
+          - key: D
+            content: Adjustments made to the policy itself
+        content: What are insurance riders?
+        answerKeys:
+          - B
+        explanation: >-
+          Insurance riders are add-ons to your life insurance policy designed to
+          offer additional financial support in certain circumstances.
+  - name: Evaluation
+    uuid: ebae5d00-f6c5-49c9-bb7c-c20e5563237e
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 508d1cb9-be24-47e1-bb2b-0777b2fafd20
+        choices:
+          - key: A
+            content: Offer additional coverage for family members
+          - key: B
+            content: >-
+              Pay out accelerated benefits while you’re alive to cover treatment
+              for certain illnesses
+          - key: C
+            content: >-
+              Take money from the death benefit to pay your medical expenses if
+              you have a terminal illness
+          - key: D
+            content: Trigger adjustments to the policy itself
+        content: What do Accelerated death benefit insurance riders do?
+        answerKeys:
+          - C
+        explanation: >-
+          Accelerated death benefit insurance riders take money from the death
+          benefit to pay your medical expenses if you have a terminal illness.
+spaceId: life-insurance-tips
