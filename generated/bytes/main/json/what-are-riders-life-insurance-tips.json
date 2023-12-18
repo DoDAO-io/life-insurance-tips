@@ -1,0 +1,73 @@
+{
+  "uniqueId": "347b9dfb-8944-49a8-a83d-8a3e73b98202",
+  "id": "what-are-riders-life-insurance-tips",
+  "name": "What are Riders?",
+  "content": "Understanding the concept of insurance riders",
+  "created": "2023-12-18T11:50:52.457Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Rider Definition",
+      "uuid": "09767cfe-df87-4f03-b056-463387c68ca8",
+      "content": "A rider is an insurance policy provision that adds benefits to or amends the terms of a basic insurance policy. Riders provide insured parties with options for additional coverage, or they may restrict or limit coverage. They can be added to policies that cover life, homes, autos, and rental units.",
+      "stepItems": []
+    },
+    {
+      "name": "Rider Purpose",
+      "uuid": "e9e92087-771b-48cd-a475-5f5539871c79",
+      "content": "Some policyholders have specific needs not covered by standard insurance policies, so riders help them create insurance products that meet those needs. Insurance companies offer supplemental insurance riders to customize policies by adding varying types of additional coverage.",
+      "stepItems": []
+    },
+    {
+      "name": "Rider Costs",
+      "uuid": "d2f8de37-b447-4fa3-ab6a-8abfef203c2a",
+      "content": "Buying an insurance rider is up to the insured party, who should weigh the cost against their individual needs. Although riders may sound appealing, they come at a cost—on top of the premiums for the policy itself.",
+      "stepItems": []
+    },
+    {
+      "name": "Rider Considerations",
+      "uuid": "1d2c848f-f8c2-4a72-9a06-f520359dd0b6",
+      "content": "Certain homeowner insurance policies come with extra earthquake riders, but someone who doesn't live near a fault line probably doesn't need this additional coverage. Another thing to consider: a rider may duplicate coverage, so it's important to look over the basic insurance contract.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "5f439e0d-cb77-49f8-bf74-7ac276e53e26",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "27605dfd-ffd8-4381-b849-b4be994f9c1a",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To restrict or limit coverage in a basic insurance policy"
+            },
+            {
+              "key": "B",
+              "content": "To create insurance products that meet specific needs not covered by standard policies"
+            },
+            {
+              "key": "C",
+              "content": "To provide options for additional coverage in a basic insurance policy"
+            },
+            {
+              "key": "D",
+              "content": "To increase savings by purchasing a separate policy"
+            }
+          ],
+          "content": "What is the purpose of insurance riders?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "Insurance riders are used to customize insurance policies by adding additional coverage that meets specific needs not covered by standard policies."
+        }
+      ]
+    }
+  ],
+  "spaceId": "life-insurance-tips"
+}
