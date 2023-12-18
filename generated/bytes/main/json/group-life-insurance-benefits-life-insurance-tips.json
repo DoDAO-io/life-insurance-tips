@@ -1,0 +1,79 @@
+{
+  "uniqueId": "a10de1f0-405b-432b-bdd8-7d29efaf0e55",
+  "id": "group-life-insurance-benefits-life-insurance-tips",
+  "name": "Group Life Insurance Benefits",
+  "content": "Exploring the benefits of group life insurance",
+  "created": "2023-12-18T11:27:24.921Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "7bc4e2b6-d786-41f4-a70f-36497328e8ec",
+      "content": "In a competitive job market, offering group life insurance is a valuable perk for employers, showcasing commitment to employee well-being and enhancing the overall compensation package. Similarly, associations can retain and attract members by providing affordable group life insurance.",
+      "stepItems": []
+    },
+    {
+      "name": "Tax Benefits",
+      "uuid": "72087226-3717-4a5f-9932-aad1295103d0",
+      "content": "Employers benefit from tax deductions on group life insurance premiums, easing financial burdens while offering employees a valuable perk. ",
+      "stepItems": []
+    },
+    {
+      "name": "Administrative Ease",
+      "uuid": "8e9c8768-c6bb-4197-9ddd-7e6b652f76e2",
+      "content": "Group life insurance simplifies employer administration by consolidating coverage under one contract, reducing paperwork and costs. It typically avoids individual medical assessments or underwriting.",
+      "stepItems": []
+    },
+    {
+      "name": "Policy Management",
+      "uuid": "6e2979ca-d099-45a0-a8c8-50f5e20f0356",
+      "content": "Insurance companies offer resources for enrollment, and each member designates a beneficiary. Employers remind employees to update policies with life changes. After resignation or termination, coverage can continue without the group discount.",
+      "stepItems": []
+    },
+    {
+      "name": "Cost Effectiveness",
+      "uuid": "071a5a77-2d67-4f9c-bcda-8f09afb86a8c",
+      "content": "Group life insurance enables cost-effective wholesale purchases for employers and insurers. This bulk approach results in lower per-employee costs than individual policies.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "9029d7c8-be88-4305-9537-80b0998730e5",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "e2f6530d-1452-4670-89d8-7e7687bf63e7",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Something that is owned by a person or company and increases in value over time"
+            },
+            {
+              "key": "B",
+              "content": "Premiums paid by an employer are tax-deductible"
+            },
+            {
+              "key": "C",
+              "content": "Something that decreases in value over time"
+            },
+            {
+              "key": "D",
+              "content": "Something that you buy for fun"
+            }
+          ],
+          "content": "What is one of the tax benefits of group life insurance for employers?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "Group life insurance premiums paid by an employer are tax-deductible, reducing the financial burden on the employer while providing a valuable benefit for employees."
+        }
+      ]
+    }
+  ],
+  "spaceId": "life-insurance-tips"
+}
