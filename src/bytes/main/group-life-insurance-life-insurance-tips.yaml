@@ -1,0 +1,84 @@
+uniqueId: b24c5637-55c9-4678-a24d-cbc86601e2f7
+id: group-life-insurance-life-insurance-tips
+name: Group Life Insurance
+content: Understanding the basics of Group Life Insurance
+created: '2023-12-18T11:03:42.435Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Introduction
+    uuid: 8a74ffed-3156-4c85-b183-164b13194629
+    content: >-
+      Group life insurance, provided by employers, associations, or labor
+      organizations, is a cost-effective or complimentary benefit for members or
+      employees. It often offers modest coverage, doesn't mandate a medical
+      exam, and involves no individual underwriting.
+    stepItems: []
+  - name: Policy Details
+    uuid: d13fe59f-42d6-4fe4-8b5a-93e0a78adad1
+    content: >-
+      The policy is a single contract that covers a group of people. By
+      purchasing this insurance on a wholesale basis, companies can secure lower
+      costs per employee than if they were to buy individual policies.
+    stepItems: []
+  - name: Coverage Cost
+    uuid: 72218661-036a-4b44-adc2-5fc308cb9d14
+    content: >-
+      Members receiving this coverage may not have to pay anything out of pocket
+      for the benefits. However, if they choose to take more advanced coverage,
+      they may opt to have their portion of the premium deducted from their
+      paycheck.
+    stepItems: []
+  - name: Policy Terms
+    uuid: a5715f76-67a4-4d31-aa86-1b4c511e6a6f
+    content: >-
+      Just like regular insurance policies, insured parties must list one or
+      more beneficiaries before the policy takes effect. The typical group
+      policy is for term life insurance, often renewable each year during a
+      company’s open-enrollment process.
+    stepItems: []
+  - name: Contract Ownership
+    uuid: b7189eeb-0c17-4b43-9d02-d31caf12976a
+    content: >-
+      In group life insurance, the employer holds the master contract for staff
+      or members. Employees opting for coverage receive a certificate, crucial
+      for securing individual coverage if they leave the organization.
+    stepItems: []
+  - name: Evaluation
+    uuid: fa98b0c6-8a7c-4305-8290-1bd5aff33ac4
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 9bb21ad7-dd4b-4ae1-a56e-8f8ac0f64ccc
+        choices:
+          - key: A
+            content: >-
+              A policy that covers a group of people and requires a medical
+              examination and individual underwriting
+          - key: B
+            content: >-
+              A policy offered by employers, associations, or labor
+              organizations to their members or employees that provides a
+              relatively low coverage amount and does not require a medical
+              examination or individual underwriting
+          - key: C
+            content: A policy that covers a group of people and requires a high premium
+          - key: D
+            content: >-
+              A policy offered by employers, associations, or labor
+              organizations to their members or employees that provides a high
+              coverage amount and requires a medical examination and individual
+              underwriting
+        content: What is group life insurance?
+        answerKeys:
+          - B
+        explanation: >-
+          Group life insurance is a policy offered by employers, associations,
+          or labor organizations to their members or employees. It is a common,
+          inexpensive, or even free benefit that typically provides a relatively
+          low coverage amount and does not require a medical examination or
+          individual underwriting.
+spaceId: life-insurance-tips
